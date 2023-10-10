@@ -8,7 +8,7 @@ body{
 @media screen and (max-width: 600px) {
     
     .undefined {
-        transform: scale(0.3);
+        transform: scale(0.2);
     }
 
 }
