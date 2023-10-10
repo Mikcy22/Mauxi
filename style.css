@@ -5,6 +5,13 @@ body{
 
 }
 
+@media screen and (max-width: 600px) {
+    
+    .undefined {
+        transform: scale(0.3);
+    }
+
+}
 
 .undefined{
     height: 20px;
